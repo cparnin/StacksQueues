@@ -1,5 +1,5 @@
 /*********************************************************************
-  Author:        Dana Vrajitoru, IUSB, CS
+  Author:        Chad Parnin & Dana Vrajitoru, IUSB, CS
   Class:         C243 Data Structures
   File name:     canfield.cc
   Last updated:  September 2014
